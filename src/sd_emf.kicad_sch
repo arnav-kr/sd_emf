@@ -1132,32 +1132,38 @@
 		)
 	)
 	(junction
-		(at 115.57 40.64)
+		(at 102.87 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "22d2084a-9df1-47e6-90c2-561d9a0269b4")
+		(uuid "3ca8ada9-9ea5-4983-b117-d16ccbde4f65")
 	)
 	(junction
-		(at 99.06 40.64)
+		(at 86.36 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "88adcdaf-d49f-49dc-a730-45e079d74bd7")
 	)
 	(junction
-		(at 73.66 55.88)
+		(at 121.92 36.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9edb3774-faf3-4e80-ba31-0e2ba7640363")
+	)
+	(junction
+		(at 60.96 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bb0200df-a1e9-44f3-9ad7-779c5b5d00b7")
 	)
 	(junction
-		(at 99.06 55.88)
+		(at 86.36 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fb669e99-95e7-4b00-9b75-c3a16c59bd1e")
 	)
 	(wire
 		(pts
-			(xy 60.96 64.77) (xy 66.04 64.77)
+			(xy 48.26 60.96) (xy 53.34 60.96)
 		)
 		(stroke
 			(width 0)
@@ -1167,7 +1173,17 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 54.61) (xy 99.06 55.88)
+			(xy 121.92 50.8) (xy 121.92 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "018b8c3f-0258-4e58-9364-ad1b355cb2e7")
+	)
+	(wire
+		(pts
+			(xy 86.36 50.8) (xy 86.36 52.07)
 		)
 		(stroke
 			(width 0)
@@ -1177,7 +1193,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 40.64) (xy 99.06 40.64)
+			(xy 102.87 36.83) (xy 86.36 36.83)
 		)
 		(stroke
 			(width 0)
@@ -1187,7 +1203,27 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 50.8) (xy 77.47 55.88)
+			(xy 121.92 43.18) (xy 121.92 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14534b18-18a9-4201-9782-49fa4e1c8a4f")
+	)
+	(wire
+		(pts
+			(xy 102.87 36.83) (xy 121.92 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28ce096e-fdf9-4d53-89c7-734fc130e0d9")
+	)
+	(wire
+		(pts
+			(xy 64.77 46.99) (xy 64.77 52.07)
 		)
 		(stroke
 			(width 0)
@@ -1197,7 +1233,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 67.31) (xy 146.05 87.63)
+			(xy 149.86 63.5) (xy 149.86 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1207,17 +1243,17 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 40.64) (xy 115.57 40.64)
+			(xy 121.92 66.04) (xy 121.92 83.82)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3d3894ab-16dc-4fde-8aab-3d5ae612ed2c")
+		(uuid "535079fd-aed5-487e-bfc3-884c9909d267")
 	)
 	(wire
 		(pts
-			(xy 73.66 55.88) (xy 77.47 55.88)
+			(xy 60.96 52.07) (xy 64.77 52.07)
 		)
 		(stroke
 			(width 0)
@@ -1227,7 +1263,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 55.88) (xy 102.87 55.88)
+			(xy 86.36 52.07) (xy 90.17 52.07)
 		)
 		(stroke
 			(width 0)
@@ -1237,7 +1273,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 40.64) (xy 99.06 46.99)
+			(xy 86.36 36.83) (xy 86.36 43.18)
 		)
 		(stroke
 			(width 0)
@@ -1247,7 +1283,17 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 40.64) (xy 115.57 46.99)
+			(xy 149.86 93.98) (xy 121.92 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62803e85-480f-4be1-851c-cb67fd5ada32")
+	)
+	(wire
+		(pts
+			(xy 102.87 36.83) (xy 102.87 43.18)
 		)
 		(stroke
 			(width 0)
@@ -1257,7 +1303,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 40.64) (xy 73.66 46.99)
+			(xy 60.96 36.83) (xy 60.96 43.18)
 		)
 		(stroke
 			(width 0)
@@ -1267,7 +1313,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 69.85) (xy 73.66 73.66)
+			(xy 60.96 66.04) (xy 60.96 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1277,7 +1323,17 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 78.74) (xy 99.06 82.55)
+			(xy 102.87 50.8) (xy 102.87 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6cc73f0f-298b-4736-9a8c-5b11f57aeee5")
+	)
+	(wire
+		(pts
+			(xy 86.36 74.93) (xy 86.36 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1287,7 +1343,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 55.88) (xy 73.66 59.69)
+			(xy 60.96 52.07) (xy 60.96 55.88)
 		)
 		(stroke
 			(width 0)
@@ -1297,7 +1353,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 59.69) (xy 146.05 40.64)
+			(xy 149.86 55.88) (xy 149.86 36.83)
 		)
 		(stroke
 			(width 0)
@@ -1307,7 +1363,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 73.66) (xy 91.44 73.66)
+			(xy 60.96 69.85) (xy 78.74 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1317,17 +1373,27 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 87.63) (xy 115.57 87.63)
+			(xy 102.87 88.9) (xy 114.3 88.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a5ea99d2-6d36-46aa-b88a-3b99fbf3565a")
+		(uuid "881c7f42-b7aa-4099-993f-5e7c7424766d")
 	)
 	(wire
 		(pts
-			(xy 73.66 54.61) (xy 73.66 55.88)
+			(xy 121.92 36.83) (xy 132.08 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f457b7b-81b4-4a16-aa7b-7112472fb6d5")
+	)
+	(wire
+		(pts
+			(xy 60.96 50.8) (xy 60.96 52.07)
 		)
 		(stroke
 			(width 0)
@@ -1337,7 +1403,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 40.64) (xy 138.43 40.64)
+			(xy 149.86 36.83) (xy 142.24 36.83)
 		)
 		(stroke
 			(width 0)
@@ -1347,7 +1413,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 55.88) (xy 99.06 68.58)
+			(xy 86.36 52.07) (xy 86.36 64.77)
 		)
 		(stroke
 			(width 0)
@@ -1357,17 +1423,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 69.85) (xy 115.57 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "beac9eb2-4ee4-4e6f-a9af-a3175fd92222")
-	)
-	(wire
-		(pts
-			(xy 99.06 40.64) (xy 73.66 40.64)
+			(xy 86.36 36.83) (xy 60.96 36.83)
 		)
 		(stroke
 			(width 0)
@@ -1377,7 +1433,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 82.55) (xy 107.95 82.55)
+			(xy 86.36 78.74) (xy 95.25 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1387,7 +1443,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 50.8) (xy 102.87 55.88)
+			(xy 90.17 46.99) (xy 90.17 52.07)
 		)
 		(stroke
 			(width 0)
@@ -1397,17 +1453,17 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 54.61) (xy 115.57 62.23)
+			(xy 102.87 83.82) (xy 102.87 88.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "dfb2c4e5-39a1-49e1-8c9c-6637e695a459")
+		(uuid "fa76a22b-ee6e-4df3-af8c-89851bbd8fb3")
 	)
 	(symbol
 		(lib_id "Transistor_BJT:2N3904")
-		(at 113.03 82.55 0)
+		(at 100.33 78.74 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1416,7 +1472,7 @@
 		(fields_autoplaced yes)
 		(uuid "3ee74418-e06c-4d7d-962e-da05d000be0c")
 		(property "Reference" "Q3"
-			(at 118.11 81.2799 0)
+			(at 105.41 77.4699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1425,7 +1481,7 @@
 			)
 		)
 		(property "Value" "2N3904"
-			(at 118.11 83.8199 0)
+			(at 105.41 80.0099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1434,7 +1490,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-92_HandSolder"
-			(at 118.11 84.455 0)
+			(at 105.41 80.645 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1445,7 +1501,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"
-			(at 113.03 82.55 0)
+			(at 100.33 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1455,7 +1511,7 @@
 			)
 		)
 		(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"
-			(at 113.03 82.55 0)
+			(at 100.33 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1483,7 +1539,7 @@
 	)
 	(symbol
 		(lib_id "Device:Battery_Cell")
-		(at 146.05 64.77 0)
+		(at 149.86 60.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1492,7 +1548,7 @@
 		(fields_autoplaced yes)
 		(uuid "44612c03-7e56-4a70-92b6-0f9f0dc41a8a")
 		(property "Reference" "BT1"
-			(at 149.86 61.6584 0)
+			(at 153.67 57.8484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1501,7 +1557,7 @@
 			)
 		)
 		(property "Value" "Battery_Cell"
-			(at 149.86 64.1984 0)
+			(at 153.67 60.3884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1510,7 +1566,7 @@
 			)
 		)
 		(property "Footprint" "Battery:BatteryHolder_Keystone_3034_1x20mm"
-			(at 146.05 63.246 90)
+			(at 149.86 59.436 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1519,7 +1575,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 146.05 63.246 90)
+			(at 149.86 59.436 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1528,7 +1584,7 @@
 			)
 		)
 		(property "Description" "Single-cell battery"
-			(at 146.05 64.77 0)
+			(at 149.86 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1553,7 +1609,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 115.57 50.8 0)
+		(at 102.87 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1562,7 +1618,7 @@
 		(fields_autoplaced yes)
 		(uuid "6770b78a-68ed-4854-9455-70670033b6d0")
 		(property "Reference" "R3"
-			(at 118.11 49.5299 0)
+			(at 105.41 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1570,8 +1626,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220"
-			(at 118.11 52.0699 0)
+		(property "Value" "4.7K"
+			(at 105.41 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1580,7 +1636,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 113.792 50.8 90)
+			(at 101.092 46.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1589,7 +1645,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 115.57 50.8 0)
+			(at 102.87 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1598,7 +1654,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 115.57 50.8 0)
+			(at 102.87 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1623,7 +1679,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Pin")
-		(at 55.88 64.77 0)
+		(at 43.18 60.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1632,7 +1688,7 @@
 		(fields_autoplaced yes)
 		(uuid "8b7de6c9-9f6d-4559-87b5-6d83b248532d")
 		(property "Reference" "J1"
-			(at 56.515 59.69 0)
+			(at 43.815 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1640,7 +1696,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01_Pin"
-			(at 56.515 62.23 0)
+			(at 43.815 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1648,7 +1704,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
-			(at 55.88 64.77 0)
+			(at 43.18 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1657,7 +1713,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 55.88 64.77 0)
+			(at 43.18 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1666,7 +1722,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 55.88 64.77 0)
+			(at 43.18 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1687,8 +1743,84 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_BJT:2N3904")
+		(at 119.38 88.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "92c653f0-d2db-48f9-8685-58f938e87e9e")
+		(property "Reference" "Q4"
+			(at 124.46 87.6299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2N3904"
+			(at 124.46 90.1699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-92_HandSolder"
+			(at 124.46 90.805 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"
+			(at 119.38 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"
+			(at 119.38 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7d0946c9-712b-4b79-8a3a-91bd9333d9b4")
+		)
+		(pin "3"
+			(uuid "89f2b197-8109-4328-81b4-9ba837bfbe56")
+		)
+		(pin "2"
+			(uuid "9e6cf919-7605-43ae-88da-5750b7ce1602")
+		)
+		(instances
+			(project "sd_emf"
+				(path "/f0d99703-0422-461c-acdd-152f64583f76"
+					(reference "Q4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Potentiometer")
-		(at 73.66 50.8 0)
+		(at 60.96 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1697,7 +1829,7 @@
 		(fields_autoplaced yes)
 		(uuid "c2923b96-c08a-4259-a6ce-8a150dad1271")
 		(property "Reference" "RV1"
-			(at 71.12 49.5299 0)
+			(at 58.42 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1706,7 +1838,7 @@
 			)
 		)
 		(property "Value" "R_Potentiometer"
-			(at 71.12 52.0699 0)
+			(at 58.42 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1715,7 +1847,7 @@
 			)
 		)
 		(property "Footprint" "Potentiometer_THT:Potentiometer_Vishay_T73YP_Vertical"
-			(at 73.66 50.8 0)
+			(at 60.96 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1724,7 +1856,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 73.66 50.8 0)
+			(at 60.96 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1733,7 +1865,7 @@
 			)
 		)
 		(property "Description" "Potentiometer"
-			(at 73.66 50.8 0)
+			(at 60.96 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1761,7 +1893,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:2N3904")
-		(at 96.52 73.66 0)
+		(at 83.82 69.85 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1770,7 +1902,7 @@
 		(fields_autoplaced yes)
 		(uuid "c6abb7a9-8c97-4ab4-883a-ec563b7ef488")
 		(property "Reference" "Q2"
-			(at 101.6 72.3899 0)
+			(at 88.9 68.5799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1779,7 +1911,7 @@
 			)
 		)
 		(property "Value" "2N3904"
-			(at 101.6 74.9299 0)
+			(at 88.9 71.1199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1788,7 +1920,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-92_HandSolder"
-			(at 101.6 75.565 0)
+			(at 88.9 71.755 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1799,7 +1931,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"
-			(at 96.52 73.66 0)
+			(at 83.82 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1809,7 +1941,7 @@
 			)
 		)
 		(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"
-			(at 96.52 73.66 0)
+			(at 83.82 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1836,35 +1968,35 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Potentiometer")
-		(at 99.06 50.8 0)
+		(lib_id "Device:R")
+		(at 121.92 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "cb0392e8-eb46-4990-a2d0-04a39c91c5de")
-		(property "Reference" "RV2"
-			(at 96.52 49.5299 0)
+		(uuid "cad80ed0-fec6-4518-b3bb-2f38dfacd5b7")
+		(property "Reference" "R4"
+			(at 124.46 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Value" "R_Potentiometer"
-			(at 96.52 52.0699 0)
+		(property "Value" "220"
+			(at 124.46 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Vishay_T73YP_Vertical"
-			(at 99.06 50.8 0)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 120.142 46.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1873,7 +2005,77 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 99.06 50.8 0)
+			(at 121.92 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 121.92 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "224ae53b-f9e0-4f57-9b59-124af2a86433")
+		)
+		(pin "2"
+			(uuid "8a5a5e8a-4395-4ea7-9021-645b9cab9cdb")
+		)
+		(instances
+			(project "sd_emf"
+				(path "/f0d99703-0422-461c-acdd-152f64583f76"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Potentiometer")
+		(at 86.36 46.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cb0392e8-eb46-4990-a2d0-04a39c91c5de")
+		(property "Reference" "RV2"
+			(at 83.82 45.7199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "R_Potentiometer"
+			(at 83.82 48.2599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Vishay_T73YP_Vertical"
+			(at 86.36 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 86.36 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1882,7 +2084,7 @@
 			)
 		)
 		(property "Description" "Potentiometer"
-			(at 99.06 50.8 0)
+			(at 86.36 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1910,7 +2112,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:2N3904")
-		(at 71.12 64.77 0)
+		(at 58.42 60.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1919,7 +2121,7 @@
 		(fields_autoplaced yes)
 		(uuid "de5a627e-fba7-4aa4-9898-1e2ca1df059e")
 		(property "Reference" "Q1"
-			(at 76.2 63.4999 0)
+			(at 63.5 59.6899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1928,7 +2130,7 @@
 			)
 		)
 		(property "Value" "2N3904"
-			(at 76.2 66.0399 0)
+			(at 63.5 62.2299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1937,7 +2139,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-92_HandSolder"
-			(at 76.2 66.675 0)
+			(at 63.5 62.865 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1948,7 +2150,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"
-			(at 71.12 64.77 0)
+			(at 58.42 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1958,7 +2160,7 @@
 			)
 		)
 		(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"
-			(at 71.12 64.77 0)
+			(at 58.42 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1986,7 +2188,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 133.35 40.64 0)
+		(at 137.16 36.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1995,7 +2197,7 @@
 		(fields_autoplaced yes)
 		(uuid "e8d390fe-6f75-4696-b554-6db4d16634b9")
 		(property "Reference" "SW1"
-			(at 133.35 33.02 0)
+			(at 137.16 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2003,7 +2205,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 133.35 35.56 0)
+			(at 137.16 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2011,7 +2213,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
-			(at 133.35 35.56 0)
+			(at 137.16 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2020,7 +2222,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.35 35.56 0)
+			(at 137.16 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2029,7 +2231,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 133.35 40.64 0)
+			(at 137.16 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2054,7 +2256,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 115.57 66.04 90)
+		(at 121.92 62.23 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2063,7 +2265,7 @@
 		(fields_autoplaced yes)
 		(uuid "e9923061-1aa8-49cd-b0c3-e16f74a3f8f2")
 		(property "Reference" "D1"
-			(at 119.38 66.3574 90)
+			(at 125.73 62.5474 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2072,7 +2274,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 119.38 68.8974 90)
+			(at 125.73 65.0874 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2081,7 +2283,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_D5.0mm"
-			(at 115.57 66.04 0)
+			(at 121.92 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2090,7 +2292,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 115.57 66.04 0)
+			(at 121.92 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2099,7 +2301,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 115.57 66.04 0)
+			(at 121.92 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2108,7 +2310,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 115.57 66.04 0)
+			(at 121.92 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
